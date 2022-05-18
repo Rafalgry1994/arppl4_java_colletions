@@ -1,0 +1,9 @@
+
+V
+java:S1854"@Remove this useless assignment to local variable "indeksPiatki".(áŒÓû
+S	java:S106"9Replace this use of System.out or System.err by a logger.(íÀ”Êøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µ„ò
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µ„ò
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µ„ò
+G
+java:S1481"1Remove this unused "indeksPiatki" local variable.(áŒÓû
